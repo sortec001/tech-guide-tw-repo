@@ -1,0 +1,4 @@
+chore(release): TechGuide 1.0.0.27 台服分发包
+
+- 精简日志：移除 DoAction 调试输出
+- Cast 诊断与慢 GCD 警告仅 ATB 开启 Cast 链路诊断时输出
